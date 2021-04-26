@@ -4,7 +4,7 @@ Disaster Recovery would be a good platform for the user who is in struggle durin
 # Screenshots
 <div>
 <img src="Screenshots/Login.jpg" alt="phone image" width="200px" />
-<img src="Screenshots/Signup.jpg" alt="phone image" width="200px" />
+<img src="Screenshots/Sign Up.jpg" alt="phone image" width="200px" />
 <img src="Screenshots/Reset Password.jpg" alt="phone image" width="200px" />
 <img src="Screenshots/Drawer.jpg" alt="phone image" width="200px" />
 <img src="Screenshots/Profile.jpg" alt="phone image" width="200px" />
