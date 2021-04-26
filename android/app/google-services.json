@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938408728513",
+    "project_id": "disaster-recovery-system",
+    "storage_bucket": "disaster-recovery-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938408728513:android:1a9d9381af7b3173410140",
+        "android_client_info": {
+          "package_name": "com.example.disaster_recovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938408728513-tetk5kkpeurp65ua0o4ts904lml4e9de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxRzl5gu37Ag6zrerPIgchpK3aEVlMxXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938408728513-tetk5kkpeurp65ua0o4ts904lml4e9de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
